@@ -1,0 +1,22 @@
+{
+  "name": "ryb",
+  "displayName": "RYB",
+  "publisher": "aland97",
+  "description": "red-yellow-blue color theme ",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.69.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "RYBCT",
+        "uiTheme": "vs-dark",
+        "path": "./themes/RYBCT-color-theme.json"
+      }
+    ]
+  }
+}
