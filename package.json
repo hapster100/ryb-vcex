@@ -8,6 +8,7 @@
   "engines": {
     "vscode": "^1.69.0"
   },
+  "icon": "./pac-icon.png",
   "repository": {
     "type": "git",
     "url": "https://www.github.com/hapster100/ryb-vcex.git"
@@ -18,9 +19,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "ryb",
+        "label": "Re Ye Bl",
         "uiTheme": "vs-dark",
-        "path": "./themes/ryb-color-theme.json"
+        "path": "./themes/theme.json"
       }
     ]
   }
