@@ -1,15 +1,16 @@
 {
   "name": "ryb",
-  "displayName": "RYB",
+  "displayName": "RYB Color Theme",
+  "license": "MIT",
   "publisher": "aland97",
-  "description": "red-yellow-blue color theme ",
-  "version": "0.1.0",
+  "description": "red-yellow-blue color theme",
+  "version": "0.1.1",
   "engines": {
     "vscode": "^1.69.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/hapster100/ryb-vcex"
+    "url": "https://www.github.com/hapster100/ryb-vcex.git"
   },
   "categories": [
     "Themes"
@@ -17,9 +18,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "RYBCT",
+        "label": "ryb",
         "uiTheme": "vs-dark",
-        "path": "./themes/RYBCT-color-theme.json"
+        "path": "./themes/ryb-color-theme.json"
       }
     ]
   }
